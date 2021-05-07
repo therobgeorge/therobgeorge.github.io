@@ -2368,10 +2368,7 @@ input, select, textarea {
 					border: solid 2px rgba(255, 255, 255, 0.25);
 				}
 
-			.image.phone:before, .image.phone:after {
-				content: '';
-			}
-
+			
 			.image.phone:before {
 				height: 2.5em;
 				border-radius: 1em 1em 0 0;
@@ -3611,8 +3608,8 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #4696e5;
-		color: #d1e5f9;
+		background-color: #D8E3E7;
+		color: #132C33;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3722,27 +3719,27 @@ input, select, textarea {
 		}
 
 		#header ::-webkit-input-placeholder {
-			color: #b5d5f5 !important;
+			color: #132C33 !important;
 		}
 
 		#header :-moz-placeholder {
-			color: #b5d5f5 !important;
+			color: #132C33 !important;
 		}
 
 		#header ::-moz-placeholder {
-			color: #b5d5f5 !important;
+			color: #132C33 !important;
 		}
 
 		#header :-ms-input-placeholder {
-			color: #b5d5f5 !important;
+			color: #132C33 !important;
 		}
 
 		#header .formerize-placeholder {
-			color: #b5d5f5 !important;
+			color: #132C33 !important;
 		}
 
 		#header .icon {
-			color: #b5d5f5;
+			color: #132C33;
 		}
 
 		#header .image {
@@ -3800,7 +3797,7 @@ input, select, textarea {
 		#header a {
 			color: inherit;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
-			color: #ffffff;
+			color: #132C33;
 		}
 
 		#header strong, #header b {
